@@ -1,0 +1,99 @@
+body{
+  background-image: url("leaf.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a{
+  color: yellow;
+}
+a:hover{
+  background-color: #1c261e;
+}
+a:link{
+  text-decoration: none;
+  padding: 20px;
+}
+#colo{
+  color: blue;
+  margin-top: 5px;
+
+}
+
+.navb{
+  background-color: black;
+  height: 80px;
+  width:1400px;
+}
+
+.pan{
+  padding: 5px;
+}
+
+#a1{
+  color: yellow;
+}
+#a2{
+  color: yellow;
+}
+
+#a3{
+  color: yellow;
+
+}
+h2{
+  width: 1000px;
+  color: white;
+  background-color: black;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.table-inf{
+  background-color: #c8ff91;
+}
+.table-ligh{
+  background-color: #ffeb7d;
+}
+.navname{
+
+  font-size: 18px;
+  position: relative;
+  bottom: 25px;
+  margin-left: 150px;
+}
+
+.loogo{
+  margin-left: 410px;
+  text-shadow: 2px 2px #ff0000;
+}
+
+h2{
+  text-align: center;
+  font-weight: bold;
+  font-family: 	Verdana;
+
+}
+
+
+th{
+  padding-left: 75px;
+}
+
+#p1{
+  background-color: grey;
+}
+#p2{
+  background-color: grey;
+}
+#p3{
+  background-color: grey;
+}
+#p4{
+  background-color: grey;
+}
+#p5{
+  background-color: grey;
+}
